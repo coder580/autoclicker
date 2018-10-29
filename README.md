@@ -1,1 +1,1 @@
-an easy to use autoclicker
+a simple easy to use autoclicker that just uses xdotool
